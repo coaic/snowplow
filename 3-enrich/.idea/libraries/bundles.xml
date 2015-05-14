@@ -1,0 +1,64 @@
+<component name="libraryTable">
+  <library name="bundles">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/chill_2.10-0.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/maple-0.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/commons-compiler-2.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/activation-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/JavaEWAH-0.6.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/snowplow-thrift-raw-event-0.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/jsr305-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/referer-parser_2.10-0.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/scalding-date_2.10-0.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/scala-util-0.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/json4s-jackson_2.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/argonaut_2.10-6.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/asm-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/jackson-databind-2.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/json4s-core_2.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/httpclient-4.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/algebird-core_2.10-0.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/scalding-core_2.10-0.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/util-core_2.10-6.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/maven-artifact-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/snowplow-common-enrich-0.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/jopt-simple-4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/scalaz-core_2.10-7.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/httpcore-4.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/util-collection_2.10-6.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/json4s-ast_2.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/json4s-native_2.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/cascading-core-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/geoip-api-1.2.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/specs2-scalaz-core_2.10-7.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/reflectasm-1.07.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/json4s-scalaz_2.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/chill-java-0.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/scalaz-specs2_2.10-0.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/scala-maxmind-iplookups_2.10-0.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/minlog-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/rhino-1.7R4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/scalaz-effect_2.10-7.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/cascading-hadoop-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/iglu-scala-client_2.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/reflectasm-1.07-shaded.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/specs2_2.10-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/scalacheck_2.10-1.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/paranamer-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/test-interface-0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/janino-2.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/jgrapht-jdk1.6-0.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/scalding-args_2.10-0.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/specs2-scalaz-concurrent_2.10-7.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/riffle-0.1-dev.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/cascading-local-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/plexus-utils-3.0.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/libphonenumber-6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/scalap-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/UserAgentUtils-1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/bundles/chill-hadoop-0.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

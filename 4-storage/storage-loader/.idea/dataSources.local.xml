@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Redshift" uuid="692bf18b-1b40-4546-be6a-a9042b29d313">
+      <secret-storage>master_key</secret-storage>
+      <user-name>acrestaadmin</user-name>
+      <schema-pattern>snowplow.atomic snowplow.pg_catalog snowplow.public</schema-pattern>
+      <default-schemas>snowplow.pg_catalog snowplow.public</default-schemas>
+    </data-source>
+  </component>
+</project>

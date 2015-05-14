@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="scala-2.10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/snowplow-hadoop-etl-0.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-hadoop-enrich/target/scala-2.10/snowplow-hadoop-etl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
