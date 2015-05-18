@@ -22,6 +22,7 @@ import org.apache.commons.codec.binary.Base64
 // Specs2
 import org.specs2.mutable.Specification
 import org.specs2.execute.Result
+import org.specs2.scalaz.ValidationMatchers
 
 // This project
 import SpecHelpers._
@@ -138,11 +139,28 @@ object PageViewWithContextSpec {
     "1080",
     "UTF-8",
     "1680",
-    "415"
+    "415",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
     )
 }
 
-class PageViewWithContextSpec extends Specification {
+class PageViewWithContextSpec extends Specification with ValidationMatchers {
 
   "Scala Kinesis Enrich" should {
 
@@ -151,9 +169,10 @@ class PageViewWithContextSpec extends Specification {
       val rawEvent = Base64.decodeBase64(PageViewWithContextSpec.raw)
       
       val enrichedEvent = TestSource.enrichEvents(rawEvent)(0)
-      enrichedEvent must beSome
+      enrichedEvent must beSuccessful
 
-      val fields = enrichedEvent.get.split("\t")
+      // "-1" prevents empty strings from being discarded from the end of the array
+      val fields = enrichedEvent.toOption.get._1.split("\t", -1)
       fields.size must beEqualTo(PageViewWithContextSpec.expected.size)
 
       Result.unit(
